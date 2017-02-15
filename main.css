@@ -3,7 +3,7 @@ body {
 	background-size: cover; /* Image covers page. */
 	background-repeat: no-repeat; /* Image does not repeat. */
 	background-attachment: fixed; /* Image doesn't move when you scroll up or down. */
-	background-position: top;
+	
     background-size: 100% 100%;
     width: 100%;
     height: 100%;
