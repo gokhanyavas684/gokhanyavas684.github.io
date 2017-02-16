@@ -7,13 +7,13 @@ body {
 }
 
 h1 {
-    font-size: 100px;
+    font-size: 100vw;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 25vw;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
 }
